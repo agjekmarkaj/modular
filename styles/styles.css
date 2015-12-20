@@ -1,0 +1,44 @@
+* { box-sizing: border-box; }
+
+
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+i {
+  color: gainsboro; 
+}
+span {
+  color: black;
+  border: solid;
+  border-width: thin;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+  
+}
+p.price {
+  color: red;
+  padding-top: 1rem;
+}
+del {
+  color: black;
+}
+p.order {
+  color: black;
+  background-color: #6B8E23;
+  width: 10%;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-top-right-radius: 2em;
+  border-bottom-right-radius: 2em;
+}
+p.item {
+  color: black;
+}
+p.discount {
+  color: black;
+}
